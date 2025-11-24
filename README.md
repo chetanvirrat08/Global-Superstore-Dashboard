@@ -2,26 +2,26 @@
 
 This README provides a clear, value-based walkthrough of the Global Superstore Dashboard, summarizing the KPIs and what each visual represents based on the figures displayed.
 
-🚀 Key Metrics (from Dashboard)
-\
-💰 Total Sales
+## 🚀 Key Metrics (from Dashboard)
+
+##### 💰 Total Sales
 
 12,642,501
 This represents the total revenue generated across all markets and product categories.
 
 
-📈 Total Profit
+##### 📈 Total Profit
 
 1,467,457.2
 This is the overall profit after subtracting all costs across the dataset.
 
 
-📦 Total Quantity Sold
+##### 📦 Total Quantity Sold
 
 178,312
 This is the total number of units sold across all regions and product types.
 
-🎯 Total Discount Given
+##### 🎯 Total Discount Given
 
 7,329.728
 This is the sum of all discounts applied on all transactions globally.
